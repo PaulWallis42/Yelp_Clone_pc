@@ -1,3 +1,10 @@
 Post Course (pc) Athletic Restart of projects:
 
-Yelp Clone with Ruby on Rails
+Yelp Clone
+
+Technologies:
+
+Ruby on Rails
+Active Record
+Postgres
+
